@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conti_Application</string>
+    <string-array name="languages">
+        <item>DE</item>
+        <item>EN</item>
+        <item>FR</item>
+        <!-- Fügen Sie hier weitere Sprachen hinzu -->
+    </string-array>
+</resources>

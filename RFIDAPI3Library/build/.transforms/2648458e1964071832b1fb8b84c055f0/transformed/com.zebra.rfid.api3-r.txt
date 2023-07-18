@@ -1,0 +1,4 @@
+com.zebra.rfid.api3
+drawable ic_launcher
+string app_name
+string sdk_version

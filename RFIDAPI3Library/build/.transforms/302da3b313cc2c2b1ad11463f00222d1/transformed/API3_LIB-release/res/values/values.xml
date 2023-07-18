@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RFID_API3_LIB</string>
+    <string name="sdk_version">1.0.3.10</string>
+</resources>
